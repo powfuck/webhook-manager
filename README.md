@@ -1,9 +1,7 @@
 <p align='center'>
   <b>🥀 Follow me here 🥀</b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://github.com/KanekiWeb/Webhook-Client/blob/main/demo/1.png?raw=true" style="width: 80%">
+  <a href="https://t.me/zepetrash">Telegram</a> |
+  <a href="https://github.com/powfuck">Github</a><br><br>
 </p>
 
 ##  
@@ -29,17 +27,9 @@
 
 ##   
 
-### 📸 Demos
-- #### Main
-    <img src="https://github.com/KanekiWeb/Webhook-Client/blob/main/demo/1.png?raw=true">
-- #### Login
-    <img src="https://github.com/KanekiWeb/Webhook-Client/blob/main/demo/2.png?raw=true">
-
-##   
-
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/JuEeGweHrb
+- Email: <psychoxzy@protonmail.com>
+- Discord: https://t.me/still_trash
 
 ##  
 
